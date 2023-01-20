@@ -10,7 +10,7 @@ Description: The program allows a book clerk to enter data about new books into 
 
 Installation: Just download the .py file int he repository and you're good to go!
 
-Usage: As you can see in the image below, it's a fairly straightforward app. Just run the .py file and click on what you need to do: 
+Usage: As you can see in the image below, it's a fairly straightforward app. Just run the .py file and click on what you need to do:<br> 
       1. Enter book - Allows user to add a new book to the database. The values needed are: A unique ID, Name of book, Author, and quantity. 
       2. Update book - Allows user to update any of the above values of a specified book.
       3. Delete book - Allows user to delete a book from the database.
