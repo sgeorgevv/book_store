@@ -8,7 +8,7 @@ Credits <br>
 
 Description: The program allows a book clerk to enter data about new books into the database, update book information, delete books from the database and search to find the availability of books in the database. This app gets rid of all archaic databases and allows the clerk a one point database for all the bookstore’s bookkeeping needs. 
 
-Installation: Just download the .py file int he repository and you're good to go!
+Installation: Just download the .py file int he repository and you're good to go.
 
 Usage: As you can see in the image below, it's a fairly straightforward app. Just run the .py file and click on what you need to do:<br> 
       1. Enter book - Allows user to add a new book to the database. The values needed are: A unique ID, Name of book, Author, and quantity.<br> 
