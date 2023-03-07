@@ -1,10 +1,10 @@
 # book_store: Book store app using SQLite3 in Python
 
 Table of Contents: <br>
-Line 9: Desciption <br>
-Line 11: Installation <br>
-Line 13: Usage <br>
-Line 23: Credits <br>
+Desciption <br>
+Installation <br>
+Usage <br>
+Credits <br>
 
 Description: The program allows a book clerk to enter data about new books into the database, update book information, delete books from the database and search to find the availability of books in the database. This app gets rid of all archaic databases and allows the clerk a one point database for all the bookstore’s bookkeeping needs. 
 
@@ -20,4 +20,3 @@ Usage: As you can see in the image below, it's a fairly straightforward app. Jus
       ![image](https://user-images.githubusercontent.com/76833694/213678667-7fffcc7b-c2f4-49ef-ba93-a6f7b931460e.png) <br>
       
       
-Credits: HyperionDev - Architect / George Bachour - Developer
