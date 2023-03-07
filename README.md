@@ -16,8 +16,7 @@ Usage: As you can see in the image below, it's a fairly straightforward app. Jus
       3. Delete book - Allows user to delete a book from the database. <br>
       4. Search books - Allows user to itterate through the database using any identifier. <br>
       5. View all books - Allows user to view all books currently in the database. <br>
-      6. Exit - Allows user to commit changes and exit. <br>
-      
+      0. Exit - Allows user to commit changes and exit. <br>
       ![image](https://user-images.githubusercontent.com/76833694/213678667-7fffcc7b-c2f4-49ef-ba93-a6f7b931460e.png) <br>
       
       
